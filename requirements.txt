@@ -1,0 +1,4 @@
+flask
+pytelegrambotapi
+scikit-learn
+gunicorn
